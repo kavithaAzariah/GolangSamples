@@ -1,0 +1,14 @@
+angularjs is a js frame work.
+bootstrap is a css framework.
+
+
+Angular:
+Lot ofdirectives
+ 
+ng-App is 
+ng-model
+ng-bind
+ng-init
+span is a coloumn
+div is a row
+{{expression}}
