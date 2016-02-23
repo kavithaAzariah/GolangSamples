@@ -1,0 +1,1 @@
+<img src='data:image/jpg;base64,"+result[j].Signature+"' id='emp_img' class='img-reponsive img-circle'/>
